@@ -4,7 +4,7 @@ This project showcases a dynamic and well-structured **Sales Dashboard** built e
 
 ---
 
-## 🛠 Project Overview
+##  Project Overview
 
 - **Tool Used**: Microsoft Excel  
 - **Skills Applied**:
